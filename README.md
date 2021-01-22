@@ -16,7 +16,7 @@ The easiest way to install *movekit* is by using `pip` :
 
 ## Usage
 You can view a demo of common features in this
-[Jupyter Notebook](https://github.com/kiwiche/movekit/blob/master/demo.ipynb).
+[Jupyter Notebook](https://github.com/kiwiche/movekit/blob/master/fish_detection.ipynb).
 
 ## Development
 For an overview of version changes see the [CHANGELOG](https://github.com/kiwiche/movekit/blob/master/CHANGELOG.rst).
