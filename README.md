@@ -16,12 +16,12 @@ The easiest way to install *movekit* is by using `pip` :
 
 ## Usage
 You can view a demo of common features in this
-[Jupyter Notebook](https://github.com/kiwiche/movekit/demo.ipynb).
+[Jupyter Notebook](https://github.com/kiwiche/movekit/blob/master/demo.ipynb).
 
 ## Development
-For an overview of version changes see the [CHANGELOG](https://github.com/dbvis-ukon/movekit/blob/master/CHANGELOG.rst).
+For an overview of version changes see the [CHANGELOG](https://github.com/kiwiche/movekit/blob/master/CHANGELOG.rst).
 
-Please submit bugs or feature requests to the GitHub issue tracker [here](https://github.com/dbvis-ukon/movekit/issues).
+Please submit bugs or feature requests to the GitHub issue tracker [here](https://github.com/kiwiche/movekit/issues).
 
 ## License
 This package was developed by Eren Cakmak, Lukas Weixler, Arjun Majumdar, Jolle Jolles, and Daniel Keim from the [Data Analysis and Visualization Group](https://www.vis.uni-konstanz.de/) and the [Department of Collective Behaviour](http://collectivebehaviour.com) at the University Konstanz, funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany's Excellence Strategy – EXC 2117 – 422037984“
