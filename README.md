@@ -16,7 +16,7 @@ The easiest way to install *movekit* is by using `pip` :
 
 ## Usage
 You can view a demo of common features in this
-[Jupyter Notebook](https://github.com/dbvis-ukon/movekit/blob/master/examples/demo.ipynb).
+[Jupyter Notebook](https://github.com/kiwiche/movekit/demo.ipynb).
 
 ## Development
 For an overview of version changes see the [CHANGELOG](https://github.com/dbvis-ukon/movekit/blob/master/CHANGELOG.rst).
