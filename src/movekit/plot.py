@@ -17,6 +17,9 @@ def plot_movement(data, frm, to):
     plt.scatter(x='x',
                 y='y',
                 data=data.loc[(data['time'] >= frm) & (data['time'] <= to), :])
+
+
+    
     plt.title("Plotting 'x' and 'y' coordinates")
     plt.xlabel("'x' coordinate")
     plt.ylabel("'y' coordinate")
@@ -24,6 +27,7 @@ def plot_movement(data, frm, to):
     plt.show()
 
     return None
+
 
 
 def plot_animal_timesteps(data_animal_id_groups):
